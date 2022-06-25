@@ -1,7 +1,7 @@
 body {
          font-family: 'Montserrat', sans-serif;
          background-color: #F5F7FA;
-         background: url('/img/pattern-28.svg');
+         background: url('../img/pattern-28.svg');
 }
 /* main styles */
 .main {
